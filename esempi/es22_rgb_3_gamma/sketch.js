@@ -1,14 +1,22 @@
 
-let immagineA
-
-
-function preload() {
-	immagineA = loadImage("gradient.png")
-}
+let gradient
 
 function setup() {
 	createCanvas(256, 256)
-	immagineA.loadPixels()
+
+
+	gradient = createImage(256, 256)
+	gradient.loadPixels()
+	for (let y = 0; y < gradient.height; y++) {
+		for (let x = 0; x < gradient.width; x++) {
+			const col = pixel(gradient, x, y)
+			const i = (x + y * gradient.width) * 4
+			gradient.pixels[i + 0] = x
+			gradient.pixels[i + 1] = x
+			gradient.pixels[i + 2] = x
+		}
+	}
+
 }
 
 function gammaCorrection(value, gamma) {
@@ -18,23 +26,25 @@ function gammaCorrection(value, gamma) {
 function draw() {
 	background(0)
 
+	const valoriGamma = [
+		0.5,
+		1.0,
+		1.5,
+		2.0,
+		2.5,
+	]
 
-	for (let y = 0; y < height; y++) {
-		for (let x = 0; x < height; x++) {
-			const col = pixel(immagineA, x, y)
 
+	for (let y = 0; y < gradient.height; y++) {
 
-			let gamma = 1.0
-			if (y < immagineA.height / 2) {
-				gamma = 0.9
-			} else {
-				gamma = 1.0
-			}
+		const id = floor(y / (gradient.height / valoriGamma.length))
+		const gamma = valoriGamma[id]
 
+		for (let x = 0; x < gradient.width; x++) {
+			const col = pixel(gradient, x, y)
 			const r = gammaCorrection(col.r, gamma)
 			const g = gammaCorrection(col.g, gamma)
 			const b = gammaCorrection(col.b, gamma)
-
 			set(x, y, color(r, g, b))
 		}
 	}
