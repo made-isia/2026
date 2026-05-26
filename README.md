@@ -97,22 +97,22 @@ Reaction-diffusion <br>
 
 - **Ester Comuzzi** & **Irene Feligioni** <br>
 Trigonometria <br>
-[https://beatriceboero-stack.github.io/B-zier-curves](https://beatriceboero-stack.github.io/B-zier-curves)  
+[]()
 
 
 - **Giorgia Ritrovato** & **Martino Baraldi**  
 Sintesi del suono  
-[URL](url)  
+[URL](girogiartirovato)  
 
 
 - **Federica Tassi**  
 Matematica della musica   
-[URL](url)
+[https://federicatassi-dev.github.io/la_matematica_del_suono](https://federicatassi-dev.github.io/la_matematica_del_suono)
 
 
 - **Giovanni Cenacchi** & **Beatrice Boero** <br> 
 Curve di Bézier
-[URL](url)
+[https://beatriceboero-stack.github.io/B-zier-curves/](https://beatriceboero-stack.github.io/B-zier-curves/)
 
 
 
@@ -129,7 +129,7 @@ Colore
 
 - **Melanie Bonivento** & **Andrea Bedini** <br> 
 L-Systems
-[https://hsk702.github.io/L-system/](https://hsk702.github.io/L-system/)
+[https://hsk702.github.io/L-system/](https://hsk702.github.io/L-system/](https://hsk702.github.io/L-system/](https://hsk702.github.io/L-system/)
 
 
 
@@ -138,13 +138,22 @@ Geometria Sona
 
 
 
+- **Chiara Betti** & **Alessio Andronic** 
+Random 
 
-- **Chiara Betti** & **Alessio Andronic** <br> Random 
 
-- **Manuel Bove** & **Chiara Leonardi** <br> Curve di Lissajous  
-- **Giulia Callegari** & **Olga Buga** <br> WFC
+- **Manuel Bove** & **Chiara Leonardi** <br> 
+Curve di Lissajous <br>
+https://
 
-- **Alice Marconi** & **Chiara Bacco** <br> A* 
+  
+- **Giulia Callegari** & **Olga Buga** <br> 
+WFC <br>
+[https://olgabuga.github.io/WFC](https://olgabuga.github.io/WFC)
+
+
+- **Alice Marconi** & **Chiara Bacco** <br>
+A* 
 
 
 
