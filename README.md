@@ -121,7 +121,7 @@ Frattali <br>
 
 
 - **Alice Ferri** & **Anita Crisafio** <br>
-Colore
+Colore <br>
 [https://anitacrisafio-design.github.io/Schemi_di_colore/](https://anitacrisafio-design.github.io/Schemi_di_colore/)
 
 
