@@ -125,11 +125,9 @@ Colore
 [https://anitacrisafio-design.github.io/Schemi_di_colore/](https://anitacrisafio-design.github.io/Schemi_di_colore/)
 
 
-
 - **Melanie Bonivento** & **Andrea Bedini** <br> 
 L-Systems
-[https://hsk702.github.io/L-system/](https://hsk702.github.io/L-system/](https://hsk702.github.io/L-system/](https://hsk702.github.io/L-system/)
-
+[https://hsk702.github.io/L-system/](https://hsk702.github.io/L-system/]
 
 
 - **Mattia Andronic** <br> 
@@ -155,7 +153,8 @@ WFC <br>
 
 
 - **Alice Marconi** & **Chiara Bacco** <br>
-A* 
+A* <br>
+[https://chiarabacco.github.io/Algoritmo_A-star](https://chiarabacco.github.io/Algoritmo_A-star)
 
 
 
