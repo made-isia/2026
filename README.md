@@ -116,7 +116,7 @@ Curve di Bézier <br>
 
 
 - **Sara Medkouri** & **Diego Scaglioni** <br> 
-Frattali
+Frattali <br>
 [https://diegoscorlio.github.io/i-frattali-in-natura](https://diegoscoglio.github.io/i-frattali-in-natura/)
 
 
