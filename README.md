@@ -88,7 +88,7 @@ Nota: verranno distribuite delle dispense digitali in classe.
 
 - **Francesca Ferri** & **Elena Cariglia** <br>
 Noise <br>
-[URL](url)  
+[https://elenaelenalenu.github.io/il_noise_nel_design_generativo](https://elenaelenalenu.github.io/il_noise_nel_design_generativo)  
 
 - **Gherardo Sabato** & **Simone Orbelli** <br>
 Reaction-diffusion <br>
@@ -144,7 +144,7 @@ Random <br>
 
 - **Manuel Bove** & **Chiara Leonardi** <br> 
 Curve di Lissajous <br>
-https://
+[https://chiarrrra.github.io/Figura_di_Lissajous/](https://chiarrrra.github.io/Figura_di_Lissajous/)
 
   
 - **Giulia Callegari** & **Olga Buga** <br> 
