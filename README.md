@@ -83,8 +83,8 @@ Nota: verranno distribuite delle dispense digitali in classe.
 #### Dispense (temporaneo)
 - [Swisstransfer](https://www.swisstransfer.com/d/ec03ac42-b328-4916-8b93-a49680f4feff)
 
-## Gruppi di lavoro e progetti
 
+## Gruppi di lavoro e progetti
 
 - **Francesca Ferri** & **Elena Cariglia** <br>
 Noise <br>
@@ -97,23 +97,22 @@ Reaction-diffusion <br>
 
 - **Ester Comuzzi** & **Irene Feligioni** <br>
 Trigonometria <br>
-[]()
+[https://estercomuzzi-png.github.io/trigonometria/](https://estercomuzzi-png.github.io/trigonometria/)
 
 
-- **Giorgia Ritrovato** & **Martino Baraldi**  
-Sintesi del suono  
-[URL](girogiartirovato)  
+- **Giorgia Ritrovato** & **Martino Baraldi**  <br>
+Sintesi del suono <br>
+[https://giorigiaritrovato.github.io/Sintesi-del-suono/](https://giorigiaritrovato.github.io/Sintesi-del-suono/)  
 
 
 - **Federica Tassi**  
-Matematica della musica   
+Matematica della musica <br>
 [https://federicatassi-dev.github.io/la_matematica_del_suono](https://federicatassi-dev.github.io/la_matematica_del_suono)
 
 
 - **Giovanni Cenacchi** & **Beatrice Boero** <br> 
-Curve di Bézier
+Curve di Bézier <br>
 [https://beatriceboero-stack.github.io/B-zier-curves/](https://beatriceboero-stack.github.io/B-zier-curves/)
-
 
 
 - **Sara Medkouri** & **Diego Scaglioni** <br> 
