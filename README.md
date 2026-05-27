@@ -126,8 +126,8 @@ Colore <br>
 
 
 - **Melanie Bonivento** & **Andrea Bedini** <br> 
-L-Systems
-[https://hsk702.github.io/L-system/](https://hsk702.github.io/L-system/]
+L-Systems <br>
+[https://hsk702.github.io/L-system/](https://hsk702.github.io/L-system/)
 
 
 - **Mattia Andronic** <br> 
